@@ -9,5 +9,5 @@
 <hr>
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postman,git,hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mongodb,mysql,postman,git,hibernate)](https://skillicons.dev)
 
